@@ -31,7 +31,7 @@ occorre:
 	```
 	@lucailgarb #sandbox
 	```
-	per la predisposizione di un altro file di prova;
+	per la predisposizione di un altro file di prova; 
 
 3. per richiedere l'assegnazione di uno spezzone di sottotitoli postare:
    
