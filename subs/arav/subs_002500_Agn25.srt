@@ -393,7 +393,7 @@ ripeto, non sappiamo da dove arriva questa cosa
 00:29:31,040 --> 00:29:36,640
 ## if people were really interested this is one 
 ## thing that can be easily tracked we have a  
-ma se qualcuno è interessato , questa è una cosa
+ma se qualcuno è interessato, questa è una cosa
 facilmente tracciabile. Abbiamo una lista 
 
 
