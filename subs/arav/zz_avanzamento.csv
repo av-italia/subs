@@ -21,9 +21,9 @@ subs_013000_Alessandraa95.srt,01:30:00,Alessandraa95,True,True,,False,False,0130
 subs_013500_roxans.srt,01:35:00,roxans,True,False,,False,False,013000_015500.srt,False,False,,False,False
 subs_014000_giuliafior.srt,01:40:00,giuliafior,True,True,,False,False,013000_015500.srt,False,False,,False,False
 subs_014500_kudelka85.srt,01:45:00,kudelka85,True,True,,False,False,013000_015500.srt,False,False,,False,False
-subs_015000_Phainou.srt,01:50:00,Phainou,True,False,,False,False,013000_015500.srt,False,False,,False,False
+subs_015000_Phainou.srt,01:50:00,Phainou,True,True,,False,False,013000_015500.srt,False,False,,False,False
 subs_015500_kudelka85.srt,01:55:00,kudelka85,True,False,,False,False,013000_015500.srt,False,False,,False,False
-subs_020000.srt,02:00:00,,False,False,,False,False,020000_022500.srt,False,False,,False,False
+subs_020000_Phainou.srt,02:00:00,Phainou,True,False,,False,False,020000_022500.srt,False,False,,False,False
 subs_020500.srt,02:05:00,,False,False,,False,False,020000_022500.srt,False,False,,False,False
 subs_021000.srt,02:10:00,,False,False,,False,False,020000_022500.srt,False,False,,False,False
 subs_021500.srt,02:15:00,,False,False,,False,False,020000_022500.srt,False,False,,False,False
