@@ -253,7 +253,7 @@ perchè apparentemente AV si stava focalizzando,
 01:07:54,800 --> 01:08:00,000
 ## they said focusing on the animals instead of 
 ## encouraging respect between activists uh they said  
-così hanno detto, focalizzando sugli animali invece che
+così hanno detto, focalizzandosi sugli animali invece che
 sull'incoraggiare il rispetto tra attivisti. Hanno detto
 
 
@@ -278,7 +278,7 @@ questo comportamento è stato estremamente offensivo e sbagliato. E la
 ## discussion around the pronoun politics or what you 
 ## called uh i think you call it something like uh  
 discussione in merito alla "politica dei pronomi", o 
-come l'avete chiamata, credo l'abbiate chiamata una cosa tipo
+come l'avete chiamata, credo l'abbiate chiamata con un termine del tipo
 
 
 682
@@ -381,5 +381,5 @@ un protocollo riguardo al genere di qualcuno.
 ## so we don't even have a protocol regarding 
 ## gender at all because it's not required it's  
 Quindi non abbiamo nemmeno un protocollo
-riguardo al genere, perchè non è richiesto. E'
+riguardo al genere, perchè non è richiesto. È
 
