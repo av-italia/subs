@@ -151,16 +151,16 @@ credo che possiamo andare avanti con la prossima domanda.
 01:31:47,040 --> 01:31:51,120
 ## subject all right all right okay can 
 ## i close off of the bottom line and  
-ok, va bene posso 
-chiudere con una conclusione e 
+- Ok, va bene. Posso concludere
+e fare una domanda
 
 
 913
 01:31:51,120 --> 01:31:54,160
 ## bottom line yes or no question and then 
 ## we'll move on is that all right with you  
-e la risposta a questa conclusione è si o no e poi
-andiamo avanti, va bene per te?
+la cui risposta è sì o no e poi
+andiamo avanti? Va bene per te?
 
 
 
@@ -168,7 +168,7 @@ andiamo avanti, va bene per te?
 01:31:55,600 --> 01:32:00,720
 ## but it's bottom line yes or no then so what 
 ## i'm understanding is that someone comes to the  
-ma è una conclusione a cui rispondere con si o no, quindi
+È una conclusione a cui rispondere con sì o no,
 ciò che ho capito è che qualcuno arriva al
 
 
@@ -179,8 +179,8 @@ ciò che ho capito è che qualcuno arriva al
 01:32:00,720 --> 01:32:07,680
 ## cube they request to be called a certain thing 
 ## and people in the cubes people the organizers  
-cubo, e richede di essere chiamato in un determianto modo
-e le persone all'interno del cubo, gli organizzatori
+Cubo, e chiede di essere chiamato in un determianto modo
+e le persone all'interno del Cubo, gli organizzatori,
 
 
 
@@ -188,8 +188,8 @@ e le persone all'interno del cubo, gli organizzatori
 01:32:08,320 --> 01:32:14,400
 ## are requested to respect that and if they get it 
 ## wrong by accident no worries don't do it again  
-sono chiamati a rispettare ciò, e se non lo fanno
-accidentalmente, non c'è da preoccuparsi basta non farlo di nuovo
+sono tutti chiamati a rispettare ciò, e se non lo fanno
+accidentalmente non c'è da preoccuparsi, basta non farlo di nuovo,
 
 
 
@@ -197,8 +197,8 @@ accidentalmente, non c'è da preoccuparsi basta non farlo di nuovo
 01:32:14,400 --> 01:32:18,960
 ## if you get it wrong on purpose you're being 
 ## disrespectful and you'll be you'll be if it  
-ma se sbagli di proposito diventi 
-irrispetoso e, se ciò
+ma se succede di proposito diventano
+irrispetosi e, se ciò
 
 
 
@@ -206,8 +206,8 @@ irrispetoso e, se ciò
 01:32:18,960 --> 01:32:24,480
 ## comes up you will be told either told off or or i 
 ## don't know warned and saying that that's bullying  
-si ripresenta, ti parleranno o rimproveranno oppure non 
-so, sarai avvertito che ciò è bullismo
+si ripresenta, saranno rimproverati oppure, non
+so, saranno avvertiti che questo è bullismo.
 
 
 
@@ -215,7 +215,7 @@ so, sarai avvertito che ciò è bullismo
 01:32:24,480 --> 01:32:28,640
 ## am i right is that correct is that if i understood 
 ## this correctly or is there something i've missed
-sto dicendo correttamente, è corretto ciò che ho capito
+Sto dicendo bene, è corretto ciò che ho capito
 o c'è qualcosa che mi è sfuggito?
 
 
@@ -224,8 +224,8 @@ o c'è qualcosa che mi è sfuggito?
 01:32:34,640 --> 01:32:43,840
 ## um sorry i sorry i just kind of zoned out for a 
 ## bit so you said right somebody got it wrong by  
-uhm scusa mi sono distratta per un attimo
-quindi hai detto giusto, se qualcuno ha sbagliato
+- Scusa, mi sono distratta per un attimo,
+hai detto che se qualcuno ha sbagliato
 
 
 
@@ -233,8 +233,8 @@ quindi hai detto giusto, se qualcuno ha sbagliato
 01:32:43,840 --> 01:32:50,960
 ## accident no worries obviously what are we gonna 
 ## do um and then if they did it on purpose they're  
-per sbaglio non c'è alcun problema ovviamente, cosa possiamo fare,
-e se invece lo ha fatto di proposito sarà 
+per errore non c'è alcun problema, ovviamente, cosa possiamo fare?
+E se invece lo ha fatto di proposito deve essere
 
 
 
@@ -242,8 +242,8 @@ e se invece lo ha fatto di proposito sarà
 01:32:50,960 --> 01:32:55,920
 ## gonna get kicked out is that always not kicked 
 ## out whatever it may be they'd be either warned  
-cacciato.
-- E' sempre così 
+cacciato? - No, non cacciato, può
+essere che venga avvertito
 
 
 
@@ -251,8 +251,8 @@ cacciato.
 01:32:55,920 --> 01:32:59,840
 ## or if it's been multiple times let's say you 
 ## would you you would take a further action if  
-oppure se ipotizziamo sia successo più volte
-prenderesti ulteriori azioni se 
+oppure, se ipotizziamo sia successo più volte,
+potreste adottare ulteriori provvedimenti nel
 
 
 
@@ -260,8 +260,8 @@ prenderesti ulteriori azioni se
 01:32:59,840 --> 01:33:04,160
 ## it's if it's becoming a habit you know if it's 
 ## something they've done more than once for example  
- fosse diventata per esempio un'abitudine, se è
-qualcosa che è stato fatto più di una volta per esempio
+caso in cui stia diventando un'abitudine, se è
+qualcosa che è successo più di una volta, per esempio.
 
 
 
@@ -269,8 +269,8 @@ qualcosa che è stato fatto più di una volta per esempio
 01:33:05,120 --> 01:33:11,680
 ## yeah um yeah basically but like what i was saying 
 ## earlier if somebody feels that strongly about  
-si, fondamentalmente ma come stavo dicendo 
-prima se qualcuno si sente così forte al riguardo
+- Sì, fondamentalmente, ma, come stavo dicendo prima,
+se qualcuno ha proprio un'opinione così forte al riguardo
 
 
 
@@ -278,8 +278,8 @@ prima se qualcuno si sente così forte al riguardo
 01:33:11,680 --> 01:33:17,040
 ## it that they're not willing to because they 
 ## feel like they're accepting that ideology  
-da non essere disposti perchè 
-si sentono come se stessero accettando quell'ideologia
+al punto da non essere disposto a farlo perché
+si sente come se stesse accettando quell'ideologia
 
 
 
@@ -289,8 +289,8 @@ si sentono come se stessero accettando quell'ideologia
 01:33:17,040 --> 01:33:22,320
 ## by referring to um say you showed up at a 
 ## cube and you want to be referred to as she  
-facendo riferimento a uhm, mettiamo che tu ti presenti ad un 
-cubo e vuoi che le persone si rivolgano a te come ad una lei
+facendo riferimento a... mettiamo che tu ti presenti a un
+Cubo e vuoi che le persone si rivolgano a te come a una lei
 
 
 
@@ -300,8 +300,8 @@ cubo e vuoi che le persone si rivolgano a te come ad una lei
 01:33:22,320 --> 01:33:30,240
 ## and like i just can't accept that then in that 
 ## case they could refer to you with your name  
- e io non posso accettarlo, in quel 
- caso possono rivolgersi a te con il tuo nome
+e io non riesco ad accettarlo, in quel
+caso ci si può rivolgere a te con il tuo nome
  
 
 
@@ -310,7 +310,7 @@ cubo e vuoi che le persone si rivolgano a te come ad una lei
 01:33:31,120 --> 01:33:36,160
 ## and if they're not willing to do that then yes 
 ## that would be an issue because then that person  
-e se non sono disposti a fare così, allora si
+e se non si è disposti a farlo allora sì,
 questo sarebbe un problema perchè allora questa persona
 
 
@@ -319,8 +319,8 @@ questo sarebbe un problema perchè allora questa persona
 01:33:36,160 --> 01:33:41,680
 ## buying this thing on not wanting to refer to 
 ## you as whatever then that that person is taking  
-attraverso questa cosa di non voler rifersi 
-a te come hai chiesto, allora questa persona si sta 
+tramite questa cosa di non voler
+riferirsi a te come hai chiesto, viene
 
 
 
@@ -328,7 +328,8 @@ a te come hai chiesto, allora questa persona si sta
 01:33:41,680 --> 01:33:46,320
 ## away from the event in the queue because they're 
 ## good yeah they're making good about anything else  
-allontanando dall'evento 
+allontanata dall'evento e dal Cubo perché
+spostando l'attenzione su qualcos'altro.
 
 
 
@@ -336,24 +337,24 @@ allontanando dall'evento
 01:33:47,040 --> 01:33:53,040
 ## yeah they make yeah okay but i think that yeah 
 ## that seems reasonable to me but i'm i'm i guess  
-
-
+- Certo, a me sembra più che
+ragionevole ma a quanto pare
 
 
 933
 01:33:53,040 --> 01:33:56,880
 ## it's not good enough for everyone for a lot of 
 ## people but i i feel like it's reasonable i just  
-
-
+per molte persone non basta, io
+credo sia ragionevole, volevo
 
 
 934
 01:33:56,880 --> 01:34:02,240
 ## wanted to clarify it before we moved on though 
 ## yeah when we move on i just want to say one more  
-volevo solo chiarire prima di andare avanti 
-voglio dire ancora  
+solo chiarire prima di andare avanti.
+- Prima di andare avanti, voglio dire ancora
 
 
 
@@ -361,7 +362,7 @@ voglio dire ancora
 01:34:02,240 --> 01:34:08,800
 ## time like this has literally never happened in 
 ## our personal experience has never happened and i  
-una volta, che questo non è mai davvero successo
+una volta che questa cosa non è mai successa
 nè nella nostra esperienza personale nè
 
 
@@ -371,7 +372,7 @@ nè nella nostra esperienza personale nè
 ## haven't heard of a specific um event where this 
 ## was the issue and this this was brought up and  
 tantomeno ho mai sentito di uno specifico evento in cui questo
-è stato il problema ed è stato menzionato e
+è stato il problema ed è stato portato all'attenzione e
 
 
 
@@ -379,8 +380,8 @@ tantomeno ho mai sentito di uno specifico evento in cui questo
 01:34:16,320 --> 01:34:23,120
 ## somebody you know had an issue with referring to 
 ## someone else with their preferred name or pronouns  
-qualcuno ha avuto un problema rivolgendosi a 
-qualcun altro con il loro nome scelto o pronome
+qualcuno ha avuto un problema rivolgendosi a qualcun
+altro con il nome che preferiva o con il pronome,
 
 
 
@@ -388,8 +389,8 @@ qualcun altro con il loro nome scelto o pronome
 01:34:23,120 --> 01:34:29,920
 ## i just want to say how uncommon this is but yeah 
 ## i guess it's just about future proofing because  
-voglio solo dire quanto questo sia raro.
-- immagino che si tratta solo di prove per il futuro perchè
+voglio solo dire quanto sia raro. - Immagino che sia
+questione di portarsi avanti per il futuro perché
 
 
 
@@ -397,8 +398,8 @@ voglio solo dire quanto questo sia raro.
 01:34:29,920 --> 01:34:35,200
 ## this is the world we're in um now you know uh 
 ## it's it's i don't think it's a bad world that  
-- questo è il mondo nel quale siamo ora e sai,
-non credo sia un brutto mondo questo
+questo è il mondo nel quale viviamo adesso,
+non credo sia un brutto mondo,
 
 
 
@@ -406,8 +407,8 @@ non credo sia un brutto mondo questo
 01:34:35,200 --> 01:34:40,720
 ## we're in i think it's good i think uh that's why 
 ## i wanted to really get into it because i i am 100  
-in cui siamo, penso sia buono, ecco perchè
-voglio andare a fondo perche sono al 100 percento
+penso sia buono, ecco perché
+voglio andare a fondo perche sono al 100%
 
 
 
@@ -415,7 +416,7 @@ voglio andare a fondo perche sono al 100 percento
 01:34:40,720 --> 01:34:44,640
 ## certain that as as we go into the future this 
 ## is going to become more and more and more common  
-sicuro che mentre andiamo verso il futuro questo 
+sicuro che mentre andiamo verso il futuro
 diventerà sempre più comune
 
 
@@ -423,32 +424,32 @@ diventerà sempre più comune
 01:34:44,640 --> 01:34:49,680
 ## and not just in av in other organizations 
 ## like you know jobs like people working in  
-e non solo in av ma anche in altre organizzazioni
-come per esempio in lavori dove la gente lavora in
+e non solo in AV ma anche in altre
+organizzazioni, a lavoro, tra chi lavora in
 
 
 943
 01:34:49,680 --> 01:34:52,960
 ## offices and stuff like that this is going to 
 ## start becoming more and more common because  
-uffici e cose del genere
-
+ufficio e cose del genere, diventerà
+sempre più comune perché
 
 
 944
 01:34:53,680 --> 01:34:59,360
 ## people you know in general people don't like 
 ## change um in general uh so you're gonna have to i  
-le persone in generale non amano 
-il camnbiamento, in generale quindi  
+le persone in generale non amano
+il camnbiamento, in generale quindi
 
 
 945
 01:34:59,360 --> 01:35:02,720
 ## think we i feel we hope we all have to expect that 
 ## we're gonna be some people out there who are gonna  
-mi sento che tutti noi dobbiamo aspettarci che
-ci saranno delle persone là fuori che 
+credo che tutti noi dovremo aspettarci che
+ci saranno delle persone là fuori che
 
 
 
