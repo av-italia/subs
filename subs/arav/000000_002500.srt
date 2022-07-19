@@ -728,7 +728,7 @@ Quindi ho risposto a questa persona, semplicemente dicendo...
 127
 00:12:42,400 --> 00:12:45,920
 In pratica ho risposto dicendo "Ok, dacci, 
-dammi delle informazioni. Questa domanda devo farla 
+dacci delle informazioni. Questa domanda devo farla 
 
 
 128
@@ -786,11 +786,7 @@ subito i messaggi. So che mi credi ma
 137
 00:13:29,280 --> 00:13:34,000
 capisco che abbia bisogno di prove. Magari potresti 
-porre la domanda in modo più generico. Del tipo, questo atteggiamento 
-
-138
-00:13:34,000 --> 00:13:38,960
-è tipico di lui? Così sarà più difficile negare. 
+porre la domanda in modo più generico. Come se questo atteggiamento 
 Mi spiace non poterti aiutare altrimenti, David." Allora,
 
 139
@@ -812,13 +808,13 @@ dico cose di cui poi mi pento e ho mandato
 
 142
 00:13:53,680 --> 00:13:58,800
-gente a f***. Ho detto, ho detto a una persona di 
+gente af***. Ho detto, ho detto a una persona di 
 andare a f*** durante una diretta, per sbaglio!
+
 
 143
 00:13:58,800 --> 00:14:01,680
 Pensavo avesse detto qualcosa che non aveva
-detto e gli ho quindi detto di andarsene a f*** e quindi 
 
 
 144
@@ -892,8 +888,9 @@ l'interazioe reale. Quindi questa è la persona
 
 156
 00:15:03,360 --> 00:15:06,880
-che dice: «Le informazioni richieste sono abbastanza
-comuni per una verifica.» Quindi questo è corretto, questo
+che dice: "è abbastanza comune chiedere di controllare
+queste informazioni" e questo è corretto, questo
+
 
 
 157
@@ -904,7 +901,8 @@ con il messaggio che ho ricevuto. E qui Paul è
 
 158
 00:15:12,560 --> 00:15:17,680
-estremamente aggressivo, a quanto pare: «Adesso
+<<<<<<< HEAD
+estremamente aggressivo, a quanto pare: "adesso
 un donatore richiede che i dettagli del login bancario
 
 
@@ -917,12 +915,17 @@ ex membro di una gang. È così che si
 160
 00:15:21,040 --> 00:15:27,360
 svolge una verifica standard di solito?»
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 Questa, a quanto pare, è la risposta aggressiva.
 
 
 161
 00:15:27,360 --> 00:15:33,040
+<<<<<<< HEAD
+Questa persona risponde dicendo... È offesa
+=======
 Questa persona risponde dicendo che è offesa
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 perché Joey viene chiamato ex membro di una gang,
 
 
@@ -935,66 +938,116 @@ stati manipolati, dopodiché Paul si giustifica
 163
 00:15:37,600 --> 00:15:42,720
 dicendo che Joey stesso si definisce
+<<<<<<< HEAD
+un ex membro di una gang. Non sta succedendo
+=======
 un ex membro di una gang. Non c'è nulla di
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 164
 00:15:44,080 --> 00:15:49,680
+<<<<<<< HEAD
+nulla per il momento, non c'è nessun [ __ ],
+niente del genere, poi continua, starete
+=======
 particolarmente importante, non c'è nessun [ __ ],
 niente del genere per ora, poi continua, starete
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 165
 00:15:49,680 --> 00:15:53,520
+<<<<<<< HEAD
+pensando: "ma allora dov'è il [ __ ]?
+Dov'è la parte del [ __ ] e vattene?"
+=======
 pensando: «Ma allora dov'è il [ __ ]?
 Dov'è la parte del [ __ ] e vattene?»
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 166
 00:15:53,520 --> 00:15:57,120
+<<<<<<< HEAD
+perché è quella la parte che sembra
+orribile, quel "[ __ ] e vattene" aggressivo.
+=======
 Perché è quella la parte che sembra
 orribile, quel «[ __ ] e vattene» aggressivo.
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 167
 00:15:57,920 --> 00:16:03,200
+<<<<<<< HEAD
+Quello che vediamo qui è Paul che dice "fuori di
+qui", hai detto "fuori di qui" quindi non
+=======
 Quello che vediamo qui è Paul che dice «fuori di
 qui», hai detto «fuori di qui», quindi non
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 168
 00:16:03,200 --> 00:16:09,200
+<<<<<<< HEAD
+"[ __ ] e vattene", e poi questa persona, che era
+=======
 «[ __ ] e vattene», e poi questa persona, che era
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 un'organizzatrice, decide di andarsene.
 
 
 169
 00:16:09,200 --> 00:16:15,920
+<<<<<<< HEAD
+Tutto qui, questa è l'interazione completa.»
+«Posso fermarti un momento?» «Sì, vai pure.»
+=======
 Tutto qui, questa è l'interazione completa.
 - Posso fermarti un momento? - Sì, vai pure.
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 170
 00:16:15,920 --> 00:16:22,800
+<<<<<<< HEAD
+«Allora, in quel momento io nemmeno sapevo che lei
+=======
 - Allora, in quel momento io nemmeno sapevo che lei
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 fosse un'organizzatrice, per questo lei dice nel
 
 
 171
 00:16:22,800 --> 00:16:30,320
+<<<<<<< HEAD
+commento successivo "Oh, no, Paul... Povero. Io sono
+=======
 commento successivo «Oh, no, Paul... Povero. Io sono
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 una delle tue organizzatrici», in quel momento mi ha
 
 
 172
 00:16:30,320 --> 00:16:38,320
+<<<<<<< HEAD
+informato di ciò.» «Dopo che hai detto "fuori di qui"»
+«Esatto, dopo il fatto, volevo solo renderlo noto.»
+=======
 informato di ciò. - Dopo che hai detto «fuori di qui.»
 - Esatto, dopo questo fatto, volevo solo renderlo noto.
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 173
 00:16:38,320 --> 00:16:42,240
+<<<<<<< HEAD
+«Esatto, e questo è quello che volevo
+=======
 - Esatto, e questo è quello che volevo
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 dire in pratica quando parlavo della
 
 
@@ -1013,7 +1066,11 @@ che in giro ci sono esempi di me che mi comporto da
 176
 00:16:53,280 --> 00:16:57,200
 [ __ ] con le persone e sono sicuro ci siano esempi
+<<<<<<< HEAD
+di voi che vi comportate da [ __ ] con le persone
+=======
 di voi che vi comportate da [ __ ] con le persone,
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 177
@@ -1049,24 +1106,40 @@ arrivano a dire ad altre persone di aver subito il
 182
 00:17:21,920 --> 00:17:26,800
 torto e che sia stato detto loro di andare a [ __ ]
+<<<<<<< HEAD
+quando ci sono prove concrete e che ovviamente possedete
+=======
 quando ci sono prove concrete e che ovviamente possedete,
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 183
 00:17:26,800 --> 00:17:32,560
+<<<<<<< HEAD
+e che sono online, che mostrano che non è così che è andata.
+=======
 che sono online e mostrano che non è così che è andata.
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 Perché succede e perché le persone ci credono
 
 
 184
 00:17:32,560 --> 00:17:38,400
 all'istante senza nemmeno controllare o metterlo in dubbio?
+<<<<<<< HEAD
+Come siamo arrivati a questo punto secondo voi?»
+=======
 Come siamo arrivati a questo punto secondo voi?
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 185
 00:17:39,680 --> 00:17:47,760
+<<<<<<< HEAD
+«Per lo stesso motivo per cui tu ricevi odio quando
+=======
 - Per lo stesso motivo per cui tu ricevi odio quando
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 qualcuno decide di portare avanti piccole o grandi campagne
 
 
@@ -1084,7 +1157,11 @@ indignazione, di cancel culture...
 
 188
 00:18:05,760 --> 00:18:14,720
+<<<<<<< HEAD
+È così che funziona, le persone non hanno più
+=======
 È così che funziona: le persone non hanno più
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 standard nell'informazione,
 
 
@@ -1096,13 +1173,22 @@ sentono qualcosa e dicono
 
 190
 00:18:21,840 --> 00:18:28,320
+<<<<<<< HEAD
+"Lui ha parlato con convinzione" o "Lei ha parlato con
+convinzione" o "Loro hanno parlato con convinzione e
+=======
 «Lui ha parlato con convinzione» o «Lei ha parlato con
 convinzione» o «Loro hanno parlato con convinzione e
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 191
 00:18:28,320 --> 00:18:33,360
+<<<<<<< HEAD
+quindi deve essere vero" e se la cosa è stata detta
+=======
 quindi deve essere vero», e se la cosa è stata detta
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 con emotività nella sezione commenti di un post
 
 
@@ -1114,32 +1200,54 @@ fare altre ricerche, quindi credo
 
 193
 00:18:41,120 --> 00:18:47,520
+<<<<<<< HEAD
+che la domanda sia un po' più profonda,
+è più una domanda sul perché
+=======
 che la domanda sia un po' più profonda.
 È più una domanda sul perché
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 194
 00:18:47,520 --> 00:18:55,840
+<<<<<<< HEAD
+gli umani sono come sono.» «Già, capisco,
+=======
 gli umani sono come sono. - Già, capisco,
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 dunque tu la metti più come
 
 
 195
 00:18:56,880 --> 00:19:03,040
 una questione di popolarità,
+<<<<<<< HEAD
+più è conosciuto un individuo o un
+=======
 più è conosciuto un individuo, o un
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 196
 00:19:03,040 --> 00:19:06,560
+<<<<<<< HEAD
+gruppo e più bisogna aspettarsi questo comportamento,
+=======
 gruppo, e più bisogna aspettarsi questo comportamento,
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 è corretto? Ho capito qual era il
 
 
 197
 00:19:06,560 --> 00:19:12,080
+<<<<<<< HEAD
+punto che volevi dire?»
+«Sì, e molti organizzatori hanno affrontato
+=======
 punto che volevi trattare?
 - Sì, e molti organizzatori hanno affrontato
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 198
@@ -1150,7 +1258,11 @@ quando diventano organizzatori e iniziano a
 
 199
 00:19:20,800 --> 00:19:27,120
+<<<<<<< HEAD
+rappresentare AV nelle loro città perché
+=======
 rappresentare AV nelle loro città, perché
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 vengono visti come se lavorassero per Hitler
 
 
@@ -1168,13 +1280,22 @@ lavorando con noi, è come avere a che fare con queste [ __ ].
 
 202
 00:19:41,600 --> 00:19:49,200
+<<<<<<< HEAD
+E questo fa parte del gioco, se si vuole fare
+qualcosa che abbia influenza in questo mondo e avere
+=======
 E questo fa parte del gioco, se vuoi fare
 qualcosa che abbia influenza in questo mondo, e avere
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 
 
 203
 00:19:49,200 --> 00:19:59,200
+<<<<<<< HEAD
+un impatto.» «Sono d'accordo, credo che
+=======
 un effetto. - Sono d'accordo, credo che
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 questo sarà un tema ricorrente
 
 
@@ -1681,7 +1802,11 @@ ripeto, non sappiamo da dove arriva questa cosa
 
 301
 00:29:31,040 --> 00:29:36,640
+<<<<<<< HEAD
+ma se qualcuno è interessato , questa è una cosa
+=======
 ma se qualcuno è interessato, questa è una cosa
+>>>>>>> 126ad3bf9b36d4859186495143d16ff820e8cde9
 facilmente tracciabile. Abbiamo una lista 
 
 
