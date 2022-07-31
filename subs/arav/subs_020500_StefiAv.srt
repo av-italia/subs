@@ -190,7 +190,7 @@ stanno aiutando, non sono nostri alleati.
 02:07:10,320 --> 02:07:16,160
 ## um understanding veganism doesn't help anyone like 
 ## oh i understand you or i'm supportive of you i'm  
-Capire il veganismo non aiuta nessuno. Dire:
+Capire il veganismo non aiuta nessuno. Dire
 «Oh, ti capisco, ti supporto, sono
 
 
@@ -213,8 +213,8 @@ termine. Allora, Asal, ho una domanda specifica
 02:07:28,480 --> 02:07:34,000
 ## topic for you and this was this was actually only 
 ## brought up yesterday um so that's why i don't know  
-per te e questa mi è stata proposta in effetti solo
-ieri, quindi è per questo che non so
+per te e questa mi è stata proposta in
+effetti solo ieri, quindi non so
 
 
 1264
@@ -230,7 +230,7 @@ spiego adesso. In pratica di tratta di Impossibile Burger,
 02:07:41,040 --> 02:07:44,960
 ## all right uh you did your video when when was 
 ## it earlier this year i don't know if you've  
-Ok? Tu ha fatto un video, quando è stato? 
+OK? Tu ha fatto un video, quando è stato? 
 Quest'anno, poco tempo fa, non so se hai avuto modo di 
 
 
@@ -319,7 +319,7 @@ che ne sei la fondatrice, hai questa opinione
 ## that you hold that uh an impossible burger um is 
 ## it's it's vegan because they tested on animals um  
 secondo cui l'Impossible Burger sia vegano,
-considerato che l'azienda ha condotto test sugli animali.
+considerato che l'azienda ha condotto test sugli animali?
 
 
 1277
@@ -438,7 +438,7 @@ supporta un prodotto che è stato testato
 02:09:53,120 --> 02:09:57,120
 ## on animals and they take the position that 
 ## because impossible foods did the testing  
-sugli animali, e che pensa che, 
+sugli animali, e pensa che, 
 poiché Impossible Foods ha eseguito i test
 
 
@@ -447,4 +447,4 @@ poiché Impossible Foods ha eseguito i test
 ## and they have not actually said they wouldn't test 
 ## the gain so impossible have said they will test
 e non ha affermato che non eseguirà altri test in
-futuro, quindi Impossible ha affermato che farà altri test
+futuro, ovvero Impossible ha affermato che farà altri test
