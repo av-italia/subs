@@ -95,7 +95,7 @@ possiamo misurare il successo? Come possiamo sapere che stiamo
 ## towards you know the right place when it looks 
 ## like we're not if you look at the global statistic
 andando nella giusta direzione quando sembra
-che non sia così, guardando alle statistiche globali?
+che non sia così, guardando le statistiche globali?
 
 
 1514
@@ -214,7 +214,7 @@ ottimisti o pessimisti.
 02:32:42,319 --> 02:32:46,080
 ## we don't think that you should just do 
 ## one thing anyway like people should do  
-Noi non pensiamo che uno debba fare solo
+Noi non pensiamo che si debba fare solo
 una cosa, comunque. Le persone dovrebbero fare
 
 
@@ -359,7 +359,7 @@ correttamente il mesaggio. È rassicurante sapere che
 02:34:19,840 --> 02:34:23,600
 ## the more people are starting to be more 
 ## unapologetic i think the word would be  
-più persone stiano cominciando ad essere più
+più persone stiano cominciando a essere più
 decise, credo sia il termine adatto,
 
 
